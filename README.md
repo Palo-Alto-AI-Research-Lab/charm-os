@@ -54,7 +54,7 @@ Founders, researchers, and operators who want a durable "digital twin" of how th
 
 ## Status
 
-**V1 is manifest-first.** This repository ships the **vision, architecture, and docs** before the code. See [MANIFESTO.md](MANIFESTO.md) and [`/docs`](docs/). Runnable modules land in a later phase. We version with [SemVer](https://semver.org) and keep a [CHANGELOG](CHANGELOG.md).
+**Manifest-first, now with the first runnable module.** This repository shipped the **vision, architecture, and docs** first (see [MANIFESTO.md](MANIFESTO.md) and [`/docs`](docs/)), and as of v0.2.0 the first real code has landed: [`modules/turnstate/`](modules/turnstate/) — the **always-on memory ledger** (deterministic, zero-LLM-token, pure stdlib). More modules follow. We version with [SemVer](https://semver.org) and keep a [CHANGELOG](CHANGELOG.md).
 
 ## Privacy (read this first)
 
