@@ -1,8 +1,6 @@
-# Palo Alto AI Research Lab — funding config.
-# Renders a "Sponsor" button on this repo. Live now: links to our SUPPORT page
-# (works with zero payment setup).
-custom: ["https://github.com/Palo-Alto-AI-Research-Lab/charm-os/blob/main/SUPPORT.md"]
-
-# Uncomment each line as the account is created:
-# github: [Palo-Alto-AI-Research-Lab]   # GitHub Sponsors (org) — 0% platform fee
-# ko_fi: PLACEHOLDER                    # Ko-fi handle — replace PLACEHOLDER with the real one
+# Palo Alto AI Research Lab - funding config. Sponsor button on this repo.
+# Live now: partnership/sponsorship inquiries via WhatsApp (already our public CTA).
+custom: ["https://wa.me/13412229178"]
+# Uncomment as accounts come online:
+# github: [Palo-Alto-AI-Research-Lab]
+# ko_fi: PLACEHOLDER
