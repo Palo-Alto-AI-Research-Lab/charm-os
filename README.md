@@ -65,6 +65,10 @@ All deterministic, zero-LLM-token, pure stdlib. More modules follow. We version 
 
 This framework operates on deeply personal data. **No real personal data is included in this repository.** Everything under [`/examples`](examples/) is synthetic. If you self-host, your data stays yours and local. See [docs/privacy.md](docs/privacy.md).
 
+## Cite this work
+
+If this repo shows up in your research, cite it via [CITATION.cff](CITATION.cff) (GitHub's "Cite this repository" button). Academic identity: Anton Dzyatkovsky publishes as **Anton Dziatkovskii** ([ORCID 0000-0001-7408-3054](https://orcid.org/0000-0001-7408-3054)).
+
 ## License
 
 [Apache License 2.0](LICENSE). Permissive, with an explicit patent grant. An open-core path (optional paid layer/hosting) may follow, but the core stays open.
