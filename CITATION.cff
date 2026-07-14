@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use charm-os in research or software, please cite it as below."
+title: "charm-os"
+type: software
+authors:
+  - family-names: Dziatkovskii
+    given-names: Anton
+    orcid: "https://orcid.org/0000-0001-7408-3054"
+    affiliation: "Palo Alto AI Research Lab"
+repository-code: "https://github.com/Palo-Alto-AI-Research-Lab/charm-os"
+url: "https://github.com/Palo-Alto-AI-Research-Lab/charm-os"
+abstract: >-
+  CharmOS / C(H+A)RM — open-source framework to manage humans AND AI agents as first-class relationships, on a personal second brain, driven by the RDR loop (Recall to Deep Research). Manifest-first, Apache-2.0.
