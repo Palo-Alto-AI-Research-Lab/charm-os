@@ -1,23 +1,22 @@
-# Support this work
+# Support this project
 
-**Palo Alto AI Research Lab** builds free, open-source AI education. We teach people to run AI agents on their own machine, build a personal "second brain," and automate real work — and we publish all of it: the tools, the curriculum, the case studies. MIT/Apache-licensed, self-hosted, no paywalls, no user-data monetization.
+These tools are built in the open by the **Palo Alto AI Research Lab** — a small,
+independent effort to give individuals an open-source "second brain" and a CRM that
+manages both human contacts *and* AI agents (C(H+A)RM), tied together by the RDR loop
+(Recall → Deep Research → Decide).
 
-We do this in public, bootstrapped, as a small team. Keeping it free and open has real costs — hosting, tooling, content production, and paying contributors. If this work has helped you, supporting it keeps it free for the next person.
+There is no company behind this and no paywall. If it saves you time or you want to
+see it grow, you can help fund the work:
 
-## Ways to support
+- **GitHub Sponsors** — 0% platform fee, recurring or one-time _(coming soon)_
+- **Ko-fi** — one-off tips _(coming soon)_
+- **Tax-deductible donations** via our fiscal sponsor, Hack Club Bank _(coming soon)_
 
-- ⭐ **Star the repos** you find useful — it genuinely helps others discover them.
-- 🛠️ **Contribute** — issues, PRs, docs, translations are all welcome.
-- 💬 **Sponsor or partner with us** — companies building AI dev tools, agent frameworks, or dev infrastructure: reach out about open-source sponsorship. Contact: **WhatsApp +1 341 222 9178**.
-- 💚 **Donate** — GitHub Sponsors and Ko-fi are being set up; links will appear here and in the "Sponsor" button shortly.
+**What your support funds:** maintenance, docs, and shipping more redacted, reusable
+modules from the private stack into public Apache-2.0 code.
 
-## What your support funds
+**Goal:** keep the core free and open forever. Near-term target — cover infrastructure
+and enough time to ship one new module per month.
 
-- Hosting and infrastructure
-- Open-source tool development
-- Educational content and curriculum
-- Contributor bounties and free learning cohorts
-
----
-
-*Invented by Mycroft and Tony — Palo Alto AI Research Lab.*
+Not ready to give money? Starring the repo, filing a good issue, or telling one person
+who'd use it helps just as much. Thank you. 🙏
