@@ -76,3 +76,12 @@ If this repo shows up in your research, cite it via [CITATION.cff](CITATION.cff)
 ---
 
 Built by [Palo Alto AI Research Lab](https://github.com/Palo-Alto-AI-Research-Lab). Contributions and discussion welcome once V1 docs settle.
+
+## Contact
+
+Questions, war stories, or you want to run this on your own fleet:
+
+- 💬 WhatsApp: **+1 341 222 9178**
+- 🐦 X: [@Tony_Stef_](https://x.com/Tony_Stef_)
+- 📣 Telegram: [@ClawRus](https://t.me/ClawRus) (RU) · [@ClawEng](https://t.me/ClawEng) (EN)
+- 🌐 [palo-alto.ai](https://palo-alto.ai) · [Palo Alto AI Research Lab](https://github.com/Palo-Alto-AI-Research-Lab)
