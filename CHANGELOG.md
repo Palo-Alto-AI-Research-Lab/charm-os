@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- `modules/eval-harness/` (v0.1.0) — eval & trace harness for multi-agent fleets. Four deterministic
+  behavioural invariants (human gate before risky commit, independent verify before commit, no
+  duplicate-event storms, escalations resolved), a zero-token evaluator whose exit code is the number
+  of failed checks, a provider-neutral JSONL trace schema, and two benchmarks built from six weeks of
+  our own production fleet: a readable showcase (`public-live-v0`) and the full 317-event corpus
+  (`consensus-safety-v0`). Published results include our own failure: independent verify at 7.7%.
+  Sanitisation ships as two deterministic paths (structure-only whitelist, and allowlist curation
+  keeping real text); the host role map is local config, never source.
+
 ### Planned
 - Second Brain reference implementation (vault + RAG + reranker).
 - Graph / associative recall layer with entity-vs-theme gating.

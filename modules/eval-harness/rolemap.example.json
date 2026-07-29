@@ -1,0 +1,7 @@
+{
+  "_comment": "Copy to rolemap.json and replace the keys with YOUR machine names. Keys = the hostnames that appear as 'actor' in your raw ledger; values = the generic role that ships in a public fixture. rolemap.json is gitignored - your machine names never leave your disk. Any actor missing from this map still never leaks: it becomes a deterministic anon-<hash> id.",
+  "MY-DESKTOP-HOSTNAME": "hub",
+  "MY-LAPTOP-HOSTNAME": "laptop-1",
+  "MY-VPS-HOSTNAME": "anchor",
+  "MY-MAC-HOSTNAME": "mac-1"
+}

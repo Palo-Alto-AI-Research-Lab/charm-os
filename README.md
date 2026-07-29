@@ -58,6 +58,7 @@ Founders, researchers, and operators who want a durable "digital twin" of how th
 
 - [`modules/turnstate/`](modules/turnstate/) (v0.2.0) — the **always-on memory ledger**: per-turn deterministic working state, hook + self-healing backfill.
 - [`modules/rdr/`](modules/rdr/) (v0.3.0) — the **RDR loop** as a CLI: `recall` → `research` → `memo`, built on the TurnState ledger.
+- [`modules/eval-harness/`](modules/eval-harness/) (v0.1.0) — **grade your agent fleet against rules it must never break.** Turns a multi-agent event log into reproducible traces and scores them against explicit safety invariants. Includes our own production results: human-gate before a risky commit **100%**, independent verify before commit **7.7%** — we publish both.
 
 All deterministic, zero-LLM-token, pure stdlib. More modules follow. We version with [SemVer](https://semver.org) and keep a [CHANGELOG](CHANGELOG.md).
 

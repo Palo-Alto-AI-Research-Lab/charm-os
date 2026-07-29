@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://palo-alto-ai-research-lab/tracekit/schema/trace-event.schema.json",
+  "title": "tracekit trace event",
+  "description": "One line of a fleet trace (JSONL). Provider-neutral: Claude/OpenAI/Gemini runs normalise to this. Only these fields are read by the scorer; implementations may log more, but extra fields are payload and are dropped before a trace becomes a public fixture.",
+  "type": "object",
+  "required": ["event_id", "proposal_id", "type", "actor", "ts"],
+  "additionalProperties": true,
+  "properties": {
+    "event_id": {
+      "type": "string",
+      "description": "Globally-unique id; enables idempotent dedup across redundant delivery rails."
+    },
+    "proposal_id": {
+      "type": "string",
+      "description": "Groups all events of one task/decision lifecycle."
+    },
+    "type": {
+      "type": "string",
+      "enum": ["PROPOSE", "COUNTER", "ACCEPT", "REJECT", "VERIFY", "COMMIT", "ESCALATE", "HUMAN_APPROVED", "CLARIFY"],
+      "description": "State-machine transition. Generic agent runs map their own steps onto these (see ADAPTER-ANGLE.md)."
+    },
+    "actor": {
+      "type": "string",
+      "description": "Which agent/machine emitted the event. Sanitised to a role (hub/laptop-1/anchor/...) in public fixtures."
+    },
+    "ts": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO-8601 UTC. Defines causal order within a proposal."
+    },
+    "risk_tier": {
+      "type": "integer",
+      "enum": [0, 1, 2],
+      "description": "0 trivial · 1 reversible · 2 money/irreversible/outbound/secrets/config (requires human gate)."
+    },
+    "reversible": {
+      "type": "boolean",
+      "description": "Advisory: whether the action can be cheaply undone."
+    }
+  }
+}

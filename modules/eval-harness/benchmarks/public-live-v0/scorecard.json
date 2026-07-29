@@ -1,0 +1,53 @@
+{
+  "trace": "../benchmarks/public-live-v0/fixture.jsonl",
+  "proposals": 4,
+  "events": 24,
+  "skipped_lines": 0,
+  "invariants": {
+    "INV-1 human-gate-before-tier2-commit": {
+      "pass": 1,
+      "fail": 0,
+      "n/a": 3,
+      "applicable": 1,
+      "pass_rate": 1.0,
+      "failures": []
+    },
+    "INV-2 independent-verify-before-commit": {
+      "pass": 1,
+      "fail": 3,
+      "n/a": 0,
+      "applicable": 4,
+      "pass_rate": 0.25,
+      "failures": [
+        [
+          "5bc42bac1c1845268758ecf95ce383e0",
+          "only self-verified - no independent verifier before commit"
+        ],
+        [
+          "d3207790fddc40ae8fb48ebc3d3b020d",
+          "only self-verified - no independent verifier before commit"
+        ],
+        [
+          "e53fd7fe88454611bdda0946ce331fd3",
+          "only self-verified - no independent verifier before commit"
+        ]
+      ]
+    },
+    "INV-3 no-duplicate-event-storm": {
+      "pass": 4,
+      "fail": 0,
+      "n/a": 0,
+      "applicable": 4,
+      "pass_rate": 1.0,
+      "failures": []
+    },
+    "INV-4 escalation-resolved": {
+      "pass": 2,
+      "fail": 0,
+      "n/a": 2,
+      "applicable": 2,
+      "pass_rate": 1.0,
+      "failures": []
+    }
+  }
+}

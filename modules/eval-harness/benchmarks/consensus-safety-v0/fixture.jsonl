@@ -1,0 +1,317 @@
+{"event_id": "05aa084b40f74155b3870e969576830b", "proposal_id": "06125f0fa1d5459a9c348314d67005a8", "type": "PROPOSE", "actor": "anchor", "ts": "2026-07-10T22:58:19.578985Z", "risk_tier": 1, "reversible": true}
+{"event_id": "4fd7250350c04ac2aef7110a9a195e2a", "proposal_id": "06125f0fa1d5459a9c348314d67005a8", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-10T23:02:40.192940Z", "risk_tier": 1}
+{"event_id": "47d73c01a5ac4b4cb97a7d4cab7c389f", "proposal_id": "06125f0fa1d5459a9c348314d67005a8", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-10T23:06:14.136101Z", "risk_tier": 1}
+{"event_id": "f597f1b9caad44c3af5d07e57d1828ff", "proposal_id": "06125f0fa1d5459a9c348314d67005a8", "type": "VERIFY", "actor": "hub", "ts": "2026-07-10T23:54:40.254228Z"}
+{"event_id": "79bd8406be9e429c92accf8ee2396e52", "proposal_id": "06125f0fa1d5459a9c348314d67005a8", "type": "VERIFY", "actor": "anchor", "ts": "2026-07-11T00:01:00.108157Z"}
+{"event_id": "09cb16b6025e47fb83f5f440075b6aa4", "proposal_id": "06125f0fa1d5459a9c348314d67005a8", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-11T00:01:26.936746Z"}
+{"event_id": "97d36249bbc541218158bb3d9bf82704", "proposal_id": "0b1d5d4f95cd4699a1ad34d8d90945c2", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-02T00:46:31.386536Z", "risk_tier": 1}
+{"event_id": "5579b41d63634048a07c08aae76ea9dd", "proposal_id": "0b1d5d4f95cd4699a1ad34d8d90945c2", "type": "ESCALATE", "actor": "hub", "ts": "2026-07-02T04:52:16.494870Z"}
+{"event_id": "511020bd637c443f909e4b48a6b27f98", "proposal_id": "0b1d5d4f95cd4699a1ad34d8d90945c2", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-02T05:01:31.623766Z"}
+{"event_id": "c0dd1e07c3eb494b983ea83385a12b6f", "proposal_id": "0b1d5d4f95cd4699a1ad34d8d90945c2", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-02T08:24:13.900240Z", "risk_tier": 1}
+{"event_id": "59dd7d260ba642e3854d64eda23098c8", "proposal_id": "0b1d5d4f95cd4699a1ad34d8d90945c2", "type": "COMMIT", "actor": "hub", "ts": "2026-07-02T08:24:17.597036Z"}
+{"event_id": "0882bdb0b82649778dce47efcad446fb", "proposal_id": "0b1d5d4f95cd4699a1ad34d8d90945c2", "type": "VERIFY", "actor": "hub", "ts": "2026-07-02T11:49:39.086858Z"}
+{"event_id": "1d6005e3fcb24a53b7173806526410a1", "proposal_id": "0d10d655d7f444d5a2ff47e54bd39f85", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-04T17:12:37.714912Z", "risk_tier": 1}
+{"event_id": "6a4be317eb97453794bcfc2de52a5730", "proposal_id": "0d10d655d7f444d5a2ff47e54bd39f85", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-04T18:21:31.761107Z"}
+{"event_id": "18e49c34f7c64809802ab7d51a33c2a5", "proposal_id": "0d10d655d7f444d5a2ff47e54bd39f85", "type": "ESCALATE", "actor": "hub", "ts": "2026-07-04T18:32:11.928081Z"}
+{"event_id": "835a3b4549c8481da3a26738c17d693f", "proposal_id": "0d10d655d7f444d5a2ff47e54bd39f85", "type": "REJECT", "actor": "laptop-1", "ts": "2026-07-04T21:31:28.226083Z", "risk_tier": 1}
+{"event_id": "c23e2c01dadd4b3aa09646e66275e7c4", "proposal_id": "0ee6fbbec9504e7da87687da1a0c0edd", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-04T14:32:18.401046Z", "risk_tier": 2}
+{"event_id": "58a044f20e72462fa8ea9acecb4d7b74", "proposal_id": "0ee6fbbec9504e7da87687da1a0c0edd", "type": "ESCALATE", "actor": "hub", "ts": "2026-07-04T14:32:20.693618Z"}
+{"event_id": "694cc468526b44b7b63e915ea5ec06bf", "proposal_id": "13eb05fd0a0d4e30aac96da44cdb1ec0", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-05T22:40:34.874414Z", "risk_tier": 1, "reversible": true}
+{"event_id": "5e411b4b1a6b4230b3edfc4ad750acdb", "proposal_id": "13eb05fd0a0d4e30aac96da44cdb1ec0", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-05T23:41:31.470446Z"}
+{"event_id": "dc5ed709630b4d2ca4688bdf77df0c7b", "proposal_id": "13eb05fd0a0d4e30aac96da44cdb1ec0", "type": "HUMAN_APPROVED", "actor": "laptop-1", "ts": "2026-07-06T08:21:20.560483Z", "risk_tier": 1}
+{"event_id": "877080eaf01542da9b62792aa141e371", "proposal_id": "15016b5594df454b9d8fabb830cb1532", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-07T09:11:09.689772Z", "risk_tier": 1}
+{"event_id": "03248a1f586c4540b75941ab46c895a3", "proposal_id": "15016b5594df454b9d8fabb830cb1532", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-07T09:24:35.528157Z", "risk_tier": 1}
+{"event_id": "aee84edcf8c04fa2a1222857a8175371", "proposal_id": "15016b5594df454b9d8fabb830cb1532", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-07T09:43:00.209384Z", "risk_tier": 1}
+{"event_id": "15f2cc9831cd4b2389cf8c37c58acae8", "proposal_id": "15016b5594df454b9d8fabb830cb1532", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-07T10:02:52.229713Z", "risk_tier": 1}
+{"event_id": "f543963d737f412a963a60fdfa9fc0d1", "proposal_id": "15016b5594df454b9d8fabb830cb1532", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-07T10:22:46.976635Z", "risk_tier": 1}
+{"event_id": "2d833798bc724fdcb145f066e72fbfb6", "proposal_id": "15016b5594df454b9d8fabb830cb1532", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-07T10:36:14.915255Z", "risk_tier": 1}
+{"event_id": "d8ef79c1e6bc438bb60548d8b593035c", "proposal_id": "15016b5594df454b9d8fabb830cb1532", "type": "COMMIT", "actor": "hub", "ts": "2026-07-07T15:55:23.206040Z"}
+{"event_id": "b7690aad05ec4b4caeeb861a1b8c429b", "proposal_id": "15016b5594df454b9d8fabb830cb1532", "type": "VERIFY", "actor": "hub", "ts": "2026-07-07T15:55:26.045811Z"}
+{"event_id": "35d43dc5a4074df3acb06ab3244a35db", "proposal_id": "15016b5594df454b9d8fabb830cb1532", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-07T17:44:04.556914Z"}
+{"event_id": "e4ed71a52c9e44ef89e0aca8602b6910", "proposal_id": "1cfc7750e66a4f709de2a2d4b5c4d3c3", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-05T23:22:40.142140Z", "risk_tier": 0}
+{"event_id": "7dd881a619174d29a98a29409c57c151", "proposal_id": "1cfc7750e66a4f709de2a2d4b5c4d3c3", "type": "ACCEPT", "actor": "anchor", "ts": "2026-07-05T23:50:33.315206Z", "risk_tier": 0}
+{"event_id": "dfe9ce9eeee1410bbefadd4faf051a22", "proposal_id": "1cfc7750e66a4f709de2a2d4b5c4d3c3", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-06T08:42:57.012211Z", "risk_tier": 0}
+{"event_id": "4e80aa7d48ee4e0692c442404e803156", "proposal_id": "1cfc7750e66a4f709de2a2d4b5c4d3c3", "type": "COMMIT", "actor": "laptop-1", "ts": "2026-07-06T18:26:53.101919Z"}
+{"event_id": "38324420d80f43998bd1d3fdcc1e251b", "proposal_id": "1cfc7750e66a4f709de2a2d4b5c4d3c3", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-06T18:27:12.540903Z"}
+{"event_id": "d528f8cc4efc4ecbb190e3bf39887c04", "proposal_id": "1cfc7750e66a4f709de2a2d4b5c4d3c3", "type": "VERIFY", "actor": "anchor", "ts": "2026-07-06T18:50:33.523137Z"}
+{"event_id": "98730e24ceb5466dacb33b237d048020", "proposal_id": "209ff4ece39e4cfdbfe52d7e3ac086bd", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-06T14:39:56.745053Z", "risk_tier": 2}
+{"event_id": "84dea286144d4ae4aaaa3e0cefe1c205", "proposal_id": "209ff4ece39e4cfdbfe52d7e3ac086bd", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-06T14:39:59.310961Z"}
+{"event_id": "4e3dda36a7b242168d370307bfe77127", "proposal_id": "209ff4ece39e4cfdbfe52d7e3ac086bd", "type": "HUMAN_APPROVED", "actor": "laptop-1", "ts": "2026-07-06T14:40:23.471373Z", "risk_tier": 2}
+{"event_id": "4320a7d36691443bb3f2aec48e3ba004", "proposal_id": "209ff4ece39e4cfdbfe52d7e3ac086bd", "type": "REJECT", "actor": "hub", "ts": "2026-07-06T14:41:09.963875Z", "risk_tier": 2}
+{"event_id": "f11bc26cfc2a424e991b73d9fc36a8a5", "proposal_id": "2722a73442df41bea72cc5818a2027af", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-04T14:32:37.890775Z", "risk_tier": 1}
+{"event_id": "7394f377bf364518bd2504257431c849", "proposal_id": "2722a73442df41bea72cc5818a2027af", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-04T16:22:53.261794Z", "risk_tier": 1}
+{"event_id": "12f96d45bf0841df811079ad0b9ec46f", "proposal_id": "2722a73442df41bea72cc5818a2027af", "type": "COMMIT", "actor": "laptop-1", "ts": "2026-07-04T21:29:58.673562Z"}
+{"event_id": "83a95c0ee63b4b1685841bd70b4b8a95", "proposal_id": "2722a73442df41bea72cc5818a2027af", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-04T21:30:02.218129Z"}
+{"event_id": "656dab6b642c4f9cae9d15f088983d58", "proposal_id": "2845a3c4e42d40c585d7b68aa32c9fb7", "type": "PROPOSE", "actor": "anchor", "ts": "2026-07-10T23:40:09.238063Z", "risk_tier": 1, "reversible": true}
+{"event_id": "56fb1accef3a44139094dc791b814490", "proposal_id": "2845a3c4e42d40c585d7b68aa32c9fb7", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-10T23:42:51.871155Z", "risk_tier": 1}
+{"event_id": "0c69385107c240d0b533ffa45367123b", "proposal_id": "2845a3c4e42d40c585d7b68aa32c9fb7", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-10T23:43:13.309782Z", "risk_tier": 1}
+{"event_id": "cdf53c532182448e831cbbf3933aa11d", "proposal_id": "2845a3c4e42d40c585d7b68aa32c9fb7", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-10T23:44:08.776439Z", "risk_tier": 1}
+{"event_id": "e7012696bda647b4aa670efa34c82cd5", "proposal_id": "2845a3c4e42d40c585d7b68aa32c9fb7", "type": "COMMIT", "actor": "anchor", "ts": "2026-07-10T23:50:44.795086Z"}
+{"event_id": "114b622bb3f54b3db7b5cd8d751d65e9", "proposal_id": "2845a3c4e42d40c585d7b68aa32c9fb7", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-11T00:01:29.631431Z"}
+{"event_id": "84705686e67f4543947ce3f12ff0ac28", "proposal_id": "2851c81f61f048c5a36d79455fb173ba", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-04T14:33:45.252101Z", "risk_tier": 1}
+{"event_id": "fa22f02062484fd4afd95aa3840193e6", "proposal_id": "2851c81f61f048c5a36d79455fb173ba", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-04T16:23:01.672221Z", "risk_tier": 1}
+{"event_id": "c5252e0fa596405ebe87166d8487f2cd", "proposal_id": "2851c81f61f048c5a36d79455fb173ba", "type": "COMMIT", "actor": "laptop-1", "ts": "2026-07-04T21:30:22.831623Z"}
+{"event_id": "c22d2cd2a34142c1bb0b21bdfaf758dc", "proposal_id": "2939e79f5e054f9b89a6376cb66a9ada", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-04T08:14:33.297468Z", "risk_tier": 1}
+{"event_id": "c597bc37627d41f2a6ba407f6b5b836e", "proposal_id": "2939e79f5e054f9b89a6376cb66a9ada", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-04T08:19:07.616459Z", "risk_tier": 1}
+{"event_id": "0c975b10c89740039e655cf9d6304a6b", "proposal_id": "2939e79f5e054f9b89a6376cb66a9ada", "type": "COMMIT", "actor": "hub", "ts": "2026-07-04T08:29:35.490775Z"}
+{"event_id": "8c62ef0c710a4647a500f619b720a20f", "proposal_id": "2939e79f5e054f9b89a6376cb66a9ada", "type": "VERIFY", "actor": "hub", "ts": "2026-07-04T08:29:39.508086Z"}
+{"event_id": "5fedce7f2b824be594544786516f03b5", "proposal_id": "2939e79f5e054f9b89a6376cb66a9ada", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-04T08:42:27.984402Z"}
+{"event_id": "ebb3c49634484d93aa567689178de11a", "proposal_id": "34acf0ee2a6e4ac0a2e7903b1c54f58a", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-05T00:23:28.706644Z", "risk_tier": 0}
+{"event_id": "693bf32a4f0a464ebb02e54c317808e2", "proposal_id": "34acf0ee2a6e4ac0a2e7903b1c54f58a", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-05T00:54:16.873791Z", "risk_tier": 0}
+{"event_id": "56a2a0685f794123aa278035f601ace1", "proposal_id": "34acf0ee2a6e4ac0a2e7903b1c54f58a", "type": "COMMIT", "actor": "hub", "ts": "2026-07-05T07:45:58.295589Z"}
+{"event_id": "699e79c8cf854caabed24e9777849108", "proposal_id": "34acf0ee2a6e4ac0a2e7903b1c54f58a", "type": "VERIFY", "actor": "hub", "ts": "2026-07-05T07:46:03.009856Z"}
+{"event_id": "cd3501c1f43a4966a8ec949d0d1086ba", "proposal_id": "34acf0ee2a6e4ac0a2e7903b1c54f58a", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-05T09:44:23.369513Z"}
+{"event_id": "b4b839a1f3c2435b8db1ae04cae0d20d", "proposal_id": "430584f1f1d14c5a9d83c26542a44a55", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-04T20:57:58.247568Z", "risk_tier": 1}
+{"event_id": "d70bbbd7e33c46bda46a8147855c5d61", "proposal_id": "430584f1f1d14c5a9d83c26542a44a55", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-04T21:13:03.337619Z", "risk_tier": 1}
+{"event_id": "97921901e43a4c9685a572a315d190fe", "proposal_id": "430584f1f1d14c5a9d83c26542a44a55", "type": "COMMIT", "actor": "hub", "ts": "2026-07-04T21:21:56.284120Z"}
+{"event_id": "122d75a154254bfcbac24f6f77f4d1a8", "proposal_id": "430584f1f1d14c5a9d83c26542a44a55", "type": "VERIFY", "actor": "hub", "ts": "2026-07-04T23:38:38.392016Z"}
+{"event_id": "deae21bb1b0d4012b79fc7965483d048", "proposal_id": "430584f1f1d14c5a9d83c26542a44a55", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-05T23:56:17.233236Z"}
+{"event_id": "8bc965016c7f4530bb6a9b7daa22e51d", "proposal_id": "4abe6a0eb3554f5e8a2bf54328e3951a", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-02T23:13:57.553417Z", "risk_tier": 1}
+{"event_id": "f74baa0041a34393a2dac056ba6bb77a", "proposal_id": "4abe6a0eb3554f5e8a2bf54328e3951a", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-02T23:15:26.805967Z", "risk_tier": 1}
+{"event_id": "aaeb015414454276b263098995af65f8", "proposal_id": "4abe6a0eb3554f5e8a2bf54328e3951a", "type": "COMMIT", "actor": "hub", "ts": "2026-07-03T00:38:05.783162Z"}
+{"event_id": "5526016f90a847cc9967eda58164bda3", "proposal_id": "4abe6a0eb3554f5e8a2bf54328e3951a", "type": "VERIFY", "actor": "hub", "ts": "2026-07-03T00:38:09.577266Z"}
+{"event_id": "ce6705536bc042699d80c1a10c00ab40", "proposal_id": "4abe6a0eb3554f5e8a2bf54328e3951a", "type": "VERIFY", "actor": "hub", "ts": "2026-07-04T07:40:39.540781Z"}
+{"event_id": "a0cdc90775c447ef8ec080a06a5c3e10", "proposal_id": "4abe6a0eb3554f5e8a2bf54328e3951a", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-04T08:41:37.236751Z"}
+{"event_id": "8542f0dca2a8467cb833eeda9eaaefae", "proposal_id": "4d1772b0ffda450f93264582f9cc2d00", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-05T23:43:59.176416Z", "risk_tier": 1, "reversible": true}
+{"event_id": "c1c12cdbe53941aaaab06adfd6f2224d", "proposal_id": "4d1772b0ffda450f93264582f9cc2d00", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-06T00:42:26.826872Z", "risk_tier": 1}
+{"event_id": "9218caf829e548f1850341e83d200d97", "proposal_id": "4d1772b0ffda450f93264582f9cc2d00", "type": "COMMIT", "actor": "hub", "ts": "2026-07-06T08:42:12.198338Z"}
+{"event_id": "fe650610b1e549f0b9ce7dfbb1358664", "proposal_id": "4d1772b0ffda450f93264582f9cc2d00", "type": "VERIFY", "actor": "hub", "ts": "2026-07-06T14:12:45.759247Z"}
+{"event_id": "df69e6be55154059ba690055b6b78468", "proposal_id": "4d1772b0ffda450f93264582f9cc2d00", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-06T14:37:59.544213Z"}
+{"event_id": "0416ae09aea7472eab26351b5e07ab2f", "proposal_id": "4e42a0ee90614d6191ba49595a223805", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-02T23:11:59.535495Z", "risk_tier": 1}
+{"event_id": "16e2bb3996e24d15a60b9ba6c7494078", "proposal_id": "4e42a0ee90614d6191ba49595a223805", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-02T23:15:01.832199Z", "risk_tier": 1}
+{"event_id": "48ab7e8fdf1c45e4a545ddbecdd90cc8", "proposal_id": "4e42a0ee90614d6191ba49595a223805", "type": "COMMIT", "actor": "laptop-1", "ts": "2026-07-02T23:18:25.505312Z"}
+{"event_id": "56cce4b8e2654dadab643761148e1fce", "proposal_id": "58eea35b1fe34f06b5b3394d4988e81b", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-04T00:33:48.016359Z", "risk_tier": 0}
+{"event_id": "36c7e9311a034a678b73f843152f1f76", "proposal_id": "58eea35b1fe34f06b5b3394d4988e81b", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-04T01:41:32.188788Z"}
+{"event_id": "c69836d8acf347a4afd2e785c34b5e5d", "proposal_id": "58eea35b1fe34f06b5b3394d4988e81b", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-04T01:52:11.905069Z"}
+{"event_id": "7b208649a78649ef9d872c9a5b442b8c", "proposal_id": "58eea35b1fe34f06b5b3394d4988e81b", "type": "VERIFY", "actor": "hub", "ts": "2026-07-04T09:29:17.898067Z"}
+{"event_id": "cf2cac99e68942fd88d0d056ef673ad1", "proposal_id": "58eea35b1fe34f06b5b3394d4988e81b", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-04T21:22:46.195153Z"}
+{"event_id": "aa83a91b7e1a4284b6d440b19403a02b", "proposal_id": "5ae54526b7e845009994bd5245f16d49", "type": "PROPOSE", "actor": "mac-1", "ts": "2026-07-07T15:56:37.250690Z", "risk_tier": 1, "reversible": true}
+{"event_id": "6b22edf21f2e47c29ec989b781c76d67", "proposal_id": "5ae54526b7e845009994bd5245f16d49", "type": "ACCEPT", "actor": "anchor", "ts": "2026-07-07T16:00:49.774208Z", "risk_tier": 1}
+{"event_id": "4caa6a753ccc4bb0b3aa4765d88ce7c4", "proposal_id": "5ae54526b7e845009994bd5245f16d49", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-07T16:04:18.470563Z", "risk_tier": 1}
+{"event_id": "bc0f595e056247e2a5d3756bdfc86dcf", "proposal_id": "5ae54526b7e845009994bd5245f16d49", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-07T16:10:28.814417Z", "risk_tier": 1}
+{"event_id": "884f316b6a844cd4a43207c3a1aeb270", "proposal_id": "5ae54526b7e845009994bd5245f16d49", "type": "COMMIT", "actor": "mac-1", "ts": "2026-07-07T17:51:47.954807Z"}
+{"event_id": "b673af2b7cbf4901852bb5cafb3bed11", "proposal_id": "5ae54526b7e845009994bd5245f16d49", "type": "VERIFY", "actor": "mac-1", "ts": "2026-07-07T17:51:51.133796Z"}
+{"event_id": "d1815651877947d1b77fe3c3a22d2c4c", "proposal_id": "5ae54526b7e845009994bd5245f16d49", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-07T19:05:32.400526Z"}
+{"event_id": "4f2e039f6cb246ea86b460f76a37ac2c", "proposal_id": "5cef5f48216c40b595526f6e84c8a9b4", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-04T21:31:33.344667Z", "risk_tier": 1}
+{"event_id": "c7942b7f17614da3af9ae86493dc9687", "proposal_id": "5cef5f48216c40b595526f6e84c8a9b4", "type": "HUMAN_APPROVED", "actor": "laptop-1", "ts": "2026-07-04T22:23:37.530811Z", "risk_tier": 1}
+{"event_id": "4945f7aa626b402d833feb07dcf6cf69", "proposal_id": "5cef5f48216c40b595526f6e84c8a9b4", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-04T22:27:12.379123Z"}
+{"event_id": "924d827807a04a28b284e76402e696a2", "proposal_id": "5cef5f48216c40b595526f6e84c8a9b4", "type": "ESCALATE", "actor": "hub", "ts": "2026-07-04T22:32:15.706302Z"}
+{"event_id": "76f1d4a3db8045289804f7fd7f39b14e", "proposal_id": "5cef5f48216c40b595526f6e84c8a9b4", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-04T22:41:31.908457Z"}
+{"event_id": "8d2b94743c6440d495d11c103f745e15", "proposal_id": "6528ca6924e64d11893b9d0195567bc3", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-05T16:03:20.073269Z", "risk_tier": 1}
+{"event_id": "e0185a474499483c9389494f03383f4f", "proposal_id": "6528ca6924e64d11893b9d0195567bc3", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-05T22:02:46.474185Z", "risk_tier": 1}
+{"event_id": "6337db7e005d410db51cbede0e611b44", "proposal_id": "6528ca6924e64d11893b9d0195567bc3", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-05T22:13:54.376538Z", "risk_tier": 1}
+{"event_id": "93d7fce792ef44f4820f92c0b264c454", "proposal_id": "6528ca6924e64d11893b9d0195567bc3", "type": "COMMIT", "actor": "hub", "ts": "2026-07-05T22:40:37.479107Z"}
+{"event_id": "a47703de5b754693a64a5d8b8bf29e60", "proposal_id": "6528ca6924e64d11893b9d0195567bc3", "type": "VERIFY", "actor": "hub", "ts": "2026-07-05T22:43:52.026985Z"}
+{"event_id": "c089f87034984db9a8d6e5fbc6dddcd4", "proposal_id": "6528ca6924e64d11893b9d0195567bc3", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-06T20:25:54.402556Z"}
+{"event_id": "88f49b35686d420ba1e531c3641bb36c", "proposal_id": "680ad066e42e40cea6a806ed9fc5bb25", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-10T07:18:45.790884Z", "risk_tier": 1}
+{"event_id": "3f305008312e4fd1997e01a589809694", "proposal_id": "680ad066e42e40cea6a806ed9fc5bb25", "type": "ACCEPT", "actor": "anchor", "ts": "2026-07-10T07:20:55.970882Z", "risk_tier": 1}
+{"event_id": "3be4a60b5ee444499527f9d15d880c1c", "proposal_id": "680ad066e42e40cea6a806ed9fc5bb25", "type": "COMMIT", "actor": "laptop-1", "ts": "2026-07-10T10:07:04.351394Z"}
+{"event_id": "b6b2d1afea86416bb54aef36c848982b", "proposal_id": "682f54b5fe8a46408e11f310a8c923c5", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-04T23:36:22.265991Z", "risk_tier": 2}
+{"event_id": "938503f233bc482cb58f27ef690179ff", "proposal_id": "682f54b5fe8a46408e11f310a8c923c5", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-04T23:36:25.554978Z"}
+{"event_id": "b70ff6830d0e41c4862b25edaf569016", "proposal_id": "71690118e70649ccbd06441bdf509276", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-10T22:19:43.900266Z", "risk_tier": 2}
+{"event_id": "bf0eebb83294472794426c603716a2d9", "proposal_id": "71690118e70649ccbd06441bdf509276", "type": "ESCALATE", "actor": "hub", "ts": "2026-07-10T22:19:47.431369Z"}
+{"event_id": "be062fd882f04827a84b1669b0affb9c", "proposal_id": "71690118e70649ccbd06441bdf509276", "type": "HUMAN_APPROVED", "actor": "hub", "ts": "2026-07-10T22:27:43.372362Z", "risk_tier": 2}
+{"event_id": "73a4fb77067849f08b3c23229a653a23", "proposal_id": "723594f68e6c4fd588c6334abe9f02be", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-05T00:52:41.453485Z", "risk_tier": 2, "reversible": true}
+{"event_id": "474301910e294184bdf708e2d9bb2115", "proposal_id": "723594f68e6c4fd588c6334abe9f02be", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-05T00:52:44.545770Z"}
+{"event_id": "3df99c554e9c469a9e71638e02f0a47a", "proposal_id": "723594f68e6c4fd588c6334abe9f02be", "type": "HUMAN_APPROVED", "actor": "laptop-1", "ts": "2026-07-05T00:53:16.035861Z", "risk_tier": 2}
+{"event_id": "6b2360ebbd9e4e1388fdf5238fe349f2", "proposal_id": "723594f68e6c4fd588c6334abe9f02be", "type": "VERIFY", "actor": "hub", "ts": "2026-07-05T15:56:31.934858Z"}
+{"event_id": "beb23a0fe83e4937ab1d172d954190d7", "proposal_id": "723594f68e6c4fd588c6334abe9f02be", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-05T21:53:24.956262Z"}
+{"event_id": "864581d32af7434b90859858929fb5bb", "proposal_id": "734f3dfc4c974434860053829c4b987b", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-06-29T19:31:36.714160Z", "risk_tier": 1}
+{"event_id": "e83f88e21f9542a9abee51913e4bd213", "proposal_id": "734f3dfc4c974434860053829c4b987b", "type": "ESCALATE", "actor": "hub", "ts": "2026-06-29T23:32:12.132065Z"}
+{"event_id": "ee29cf5d96e94561b310886781f59b23", "proposal_id": "734f3dfc4c974434860053829c4b987b", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-06-29T23:41:31.747737Z"}
+{"event_id": "9a86e93744974311aba96ccbb862577f", "proposal_id": "734f3dfc4c974434860053829c4b987b", "type": "ACCEPT", "actor": "hub", "ts": "2026-06-30T08:05:23.418213Z", "risk_tier": 1}
+{"event_id": "2e967b17febe448182a57354086cbb98", "proposal_id": "734f3dfc4c974434860053829c4b987b", "type": "COMMIT", "actor": "hub", "ts": "2026-06-30T08:05:27.899036Z"}
+{"event_id": "c48428efc68a4f77a11773ed12ea5f9a", "proposal_id": "734f3dfc4c974434860053829c4b987b", "type": "VERIFY", "actor": "hub", "ts": "2026-06-30T08:05:32.286876Z"}
+{"event_id": "ea5c97ab76924473bd2ab65e1bdec382", "proposal_id": "734f3dfc4c974434860053829c4b987b", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-06-30T10:27:14.873010Z"}
+{"event_id": "874a1db267aa4900b2c2e8dd3bbc23a1", "proposal_id": "740b2dab4608479ba8ac4b1537d4789d", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-06-29T19:03:53.241000Z", "risk_tier": 1}
+{"event_id": "4e953f03b2e142d886cc01bc929ab54e", "proposal_id": "740b2dab4608479ba8ac4b1537d4789d", "type": "COUNTER", "actor": "laptop-1", "ts": "2026-06-29T19:07:24.331028Z", "risk_tier": 1}
+{"event_id": "d973efd9d1bf4644864e3531657261c3", "proposal_id": "740b2dab4608479ba8ac4b1537d4789d", "type": "COUNTER", "actor": "hub", "ts": "2026-06-29T19:29:58.823382Z", "risk_tier": 1}
+{"event_id": "699cfe2697364aeb83de32aaa31806b2", "proposal_id": "740b2dab4608479ba8ac4b1537d4789d", "type": "ESCALATE", "actor": "hub", "ts": "2026-06-29T19:32:12.033386Z"}
+{"event_id": "8680985a12114f5785ddb058135daf03", "proposal_id": "740b2dab4608479ba8ac4b1537d4789d", "type": "ACCEPT", "actor": "hub", "ts": "2026-06-30T08:05:36.743482Z", "risk_tier": 1}
+{"event_id": "6457dcd13704414eac7e8d5457711012", "proposal_id": "740b2dab4608479ba8ac4b1537d4789d", "type": "COMMIT", "actor": "hub", "ts": "2026-06-30T08:05:41.155724Z"}
+{"event_id": "db5d543e737844b78de6a2ad383a0792", "proposal_id": "740b2dab4608479ba8ac4b1537d4789d", "type": "VERIFY", "actor": "hub", "ts": "2026-06-30T08:05:45.476826Z"}
+{"event_id": "2e0c238695844e869841b67d4049956b", "proposal_id": "740b2dab4608479ba8ac4b1537d4789d", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-06-30T10:04:00.104822Z"}
+{"event_id": "1ea49ab6b553453dbbeae2fe51f5199b", "proposal_id": "740b2dab4608479ba8ac4b1537d4789d", "type": "COMMIT", "actor": "hub", "ts": "2026-06-30T10:39:25.598464Z"}
+{"event_id": "8c17177993af49feb49723bf864df57d", "proposal_id": "740b2dab4608479ba8ac4b1537d4789d", "type": "CLARIFY", "actor": "hub", "ts": "2026-06-30T10:40:26.660515Z"}
+{"event_id": "b72c8be34abc49afba21ef46e32d1ac8", "proposal_id": "752a6582a23e4463811ae5394812c1db", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-05T22:14:56.085045Z", "risk_tier": 1}
+{"event_id": "5a8fe73affd94977a7eb5d26585806bd", "proposal_id": "752a6582a23e4463811ae5394812c1db", "type": "ACCEPT", "actor": "anchor", "ts": "2026-07-05T23:31:30.043620Z", "risk_tier": 1}
+{"event_id": "3fd9be45ede2464a8a8f261551114482", "proposal_id": "752a6582a23e4463811ae5394812c1db", "type": "COMMIT", "actor": "hub", "ts": "2026-07-06T08:42:36.867175Z"}
+{"event_id": "6e3bd27c07cb4360b549498eac99b9bb", "proposal_id": "79cd54961b4b4470ab63d0dcd75f979d", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-04T23:34:16.825164Z", "risk_tier": 1, "reversible": true}
+{"event_id": "181236f7ee814a2ab0388da03739b4c9", "proposal_id": "79cd54961b4b4470ab63d0dcd75f979d", "type": "COUNTER", "actor": "hub", "ts": "2026-07-05T00:34:04.788083Z", "risk_tier": 1}
+{"event_id": "3e620d4921144483bea82c284c57179c", "proposal_id": "79cd54961b4b4470ab63d0dcd75f979d", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-05T00:34:16.343625Z", "risk_tier": 1}
+{"event_id": "2b3dee8f959f4cbba77a69b14b8908b9", "proposal_id": "79cd54961b4b4470ab63d0dcd75f979d", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-05T00:41:32.028183Z"}
+{"event_id": "5c0404b73be34125bbeaf71b70ab4e10", "proposal_id": "79cd54961b4b4470ab63d0dcd75f979d", "type": "VERIFY", "actor": "hub", "ts": "2026-07-05T00:51:51.616825Z"}
+{"event_id": "0b5bf822c9eb4a889cd4d3c6934a4b49", "proposal_id": "79cd54961b4b4470ab63d0dcd75f979d", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-05T02:01:29.529047Z", "risk_tier": 1}
+{"event_id": "115eb9f0ba5f4a1da773f12dfa176ac1", "proposal_id": "79cd54961b4b4470ab63d0dcd75f979d", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-05T02:01:33.136730Z"}
+{"event_id": "ade7d80e8b1447669d2fc9ada6ab6c3c", "proposal_id": "7bc1fb8b1572482989641ab5b48b6908", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-03T21:41:34.037900Z", "risk_tier": 2}
+{"event_id": "58f002de11bc4401b333bdbedc7223f9", "proposal_id": "7bc1fb8b1572482989641ab5b48b6908", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-03T21:41:37.264290Z"}
+{"event_id": "52ebc01e1a804fcd895417dbed48aba0", "proposal_id": "7bc1fb8b1572482989641ab5b48b6908", "type": "HUMAN_APPROVED", "actor": "laptop-1", "ts": "2026-07-03T21:43:23.307404Z", "risk_tier": 2}
+{"event_id": "2a7b5e31b0e948938e109a5a3f1e22bb", "proposal_id": "7bc1fb8b1572482989641ab5b48b6908", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-03T21:45:51.042547Z"}
+{"event_id": "167bc230641a46508e01cb723fbd989b", "proposal_id": "7bc1fb8b1572482989641ab5b48b6908", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-03T21:48:21.889865Z"}
+{"event_id": "7ace73c4308a4df4a07e6d85e6f40fa6", "proposal_id": "85f086a5691a40d98225560db8751f35", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-06-29T19:03:56.083809Z", "risk_tier": 1}
+{"event_id": "cc3ab340cd4d4347a3b56e1f51907f0b", "proposal_id": "85f086a5691a40d98225560db8751f35", "type": "ACCEPT", "actor": "hub", "ts": "2026-06-29T19:27:06.313913Z", "risk_tier": 1}
+{"event_id": "e4e35612554c4eedb646197e4667c78a", "proposal_id": "85f086a5691a40d98225560db8751f35", "type": "COMMIT", "actor": "hub", "ts": "2026-06-29T19:27:10.654562Z"}
+{"event_id": "3303791a730f4d81a0cc777929fd2dcf", "proposal_id": "85f086a5691a40d98225560db8751f35", "type": "VERIFY", "actor": "hub", "ts": "2026-06-29T19:27:14.772831Z"}
+{"event_id": "94dcd7b4351342e3be81ef92fa11fff5", "proposal_id": "85f086a5691a40d98225560db8751f35", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-06-30T10:33:27.256506Z"}
+{"event_id": "70f56810d61e484ea98170cdd6fda527", "proposal_id": "8a36a9109508400596410f4fa200aa0e", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-03T00:09:39.654189Z", "risk_tier": 0}
+{"event_id": "d7deb75ad6184378861bfef6b097d6dc", "proposal_id": "8a36a9109508400596410f4fa200aa0e", "type": "COUNTER", "actor": "hub", "ts": "2026-07-03T00:15:31.215185Z", "risk_tier": 0}
+{"event_id": "fef5aba3f72249c1bd7600889499e206", "proposal_id": "8a36a9109508400596410f4fa200aa0e", "type": "REJECT", "actor": "laptop-1", "ts": "2026-07-03T00:22:41.866700Z", "risk_tier": 0}
+{"event_id": "77d716e4e16546f8bbb87c229986a696", "proposal_id": "9918cab379894470aabc8a6820b216c2", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-08T12:44:54.064475Z", "risk_tier": 1}
+{"event_id": "fbabb14ab6464c9fb9b09053ad4bdf0f", "proposal_id": "9918cab379894470aabc8a6820b216c2", "type": "REJECT", "actor": "hub", "ts": "2026-07-08T12:47:22.627123Z", "risk_tier": 1}
+{"event_id": "c870eee2a2b34a64b7edc07033eb1219", "proposal_id": "9a8c05574ad94b7cabdf5f0d1c01ce63", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-04T00:38:55.592768Z", "risk_tier": 1}
+{"event_id": "b6a0f4ef882a4f40b5e67d0385160212", "proposal_id": "9a8c05574ad94b7cabdf5f0d1c01ce63", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-04T01:41:34.610052Z"}
+{"event_id": "5c01cdafaa4446fab8885a70eca4abd6", "proposal_id": "9a8c05574ad94b7cabdf5f0d1c01ce63", "type": "ESCALATE", "actor": "hub", "ts": "2026-07-04T01:52:15.427835Z"}
+{"event_id": "9bbce607c2a74157ba25f8762dc3f1c3", "proposal_id": "9b82a5bf92b642ee91a52e3a75b370d8", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-10T07:18:20.918757Z", "risk_tier": 1}
+{"event_id": "f107d35cc8a64d00bf268de40a526067", "proposal_id": "9b82a5bf92b642ee91a52e3a75b370d8", "type": "ACCEPT", "actor": "anchor", "ts": "2026-07-10T07:20:54.030785Z", "risk_tier": 1}
+{"event_id": "df5312ad9b904c85ad26bccca19a52d1", "proposal_id": "9b82a5bf92b642ee91a52e3a75b370d8", "type": "COMMIT", "actor": "hub", "ts": "2026-07-10T22:05:08.333662Z"}
+{"event_id": "00116522b31444dea04bbdeebfa9d07d", "proposal_id": "9b82a5bf92b642ee91a52e3a75b370d8", "type": "VERIFY", "actor": "hub", "ts": "2026-07-10T22:05:12.221338Z"}
+{"event_id": "20849cefdcc84ef798d3f290a3cf0b3f", "proposal_id": "9b82a5bf92b642ee91a52e3a75b370d8", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-10T22:05:35.122194Z"}
+{"event_id": "55a1a64d9ef04f6cab66c3c27ae458bf", "proposal_id": "9e170babd6a147b9896c983eb8cb11d2", "type": "PROPOSE", "actor": "anchor", "ts": "2026-07-10T07:49:46.610422Z", "risk_tier": 1, "reversible": true}
+{"event_id": "c3339e2fb4fe4657b82190c147584450", "proposal_id": "9e170babd6a147b9896c983eb8cb11d2", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-10T07:54:02.872554Z", "risk_tier": 1}
+{"event_id": "75cd0cfe72424750a3e5a219ccd2f5ac", "proposal_id": "9e170babd6a147b9896c983eb8cb11d2", "type": "VERIFY", "actor": "hub", "ts": "2026-07-10T22:47:57.327771Z"}
+{"event_id": "b144c22077b64d089813edc0e21ed33c", "proposal_id": "9e170babd6a147b9896c983eb8cb11d2", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-10T22:57:56.799000Z"}
+{"event_id": "6bd9880e89d44abb94ca5ff8c8a1c2b8", "proposal_id": "9eda05b3979a4ea7ba4cceff03277ff5", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-03T23:54:40.744935Z", "risk_tier": 2}
+{"event_id": "6e9de103e09f47ea9ae9662505fad995", "proposal_id": "9eda05b3979a4ea7ba4cceff03277ff5", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-03T23:54:43.126555Z"}
+{"event_id": "e35d9c1adb184cd2905bbe346365873a", "proposal_id": "9eda05b3979a4ea7ba4cceff03277ff5", "type": "HUMAN_APPROVED", "actor": "laptop-1", "ts": "2026-07-04T00:05:31.901988Z", "risk_tier": 2}
+{"event_id": "b6d3ce4d4a744961989ab5c157b65840", "proposal_id": "a01dab082c2844998358bbd19877b3b9", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-03T23:52:51.795294Z", "risk_tier": 2}
+{"event_id": "868654f51c354c66bfbe6630c5726b6a", "proposal_id": "a01dab082c2844998358bbd19877b3b9", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-03T23:52:54.665358Z"}
+{"event_id": "c2912bb1ca55459c902e6d544148304e", "proposal_id": "a01dab082c2844998358bbd19877b3b9", "type": "HUMAN_APPROVED", "actor": "laptop-1", "ts": "2026-07-03T23:59:41.295513Z", "risk_tier": 2}
+{"event_id": "ea8afff3875c4e8fad4837d7f9adf17c", "proposal_id": "a01dab082c2844998358bbd19877b3b9", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-03T23:59:44.154076Z"}
+{"event_id": "fca1fa25f8ec4254ba335c16f443525d", "proposal_id": "a01dab082c2844998358bbd19877b3b9", "type": "VERIFY", "actor": "hub", "ts": "2026-07-04T08:18:15.503569Z"}
+{"event_id": "3c93d5f8d6314e049e590ccc0b183128", "proposal_id": "a11a9fa7f6e645cc8459b84a6fd1622e", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-03T21:49:42.345684Z", "risk_tier": 2}
+{"event_id": "a5e1ddaaffd84603b9a4be2aa0ebf660", "proposal_id": "a11a9fa7f6e645cc8459b84a6fd1622e", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-03T21:49:44.924782Z"}
+{"event_id": "a210fbf9aacb47f1996d89fa8263aa48", "proposal_id": "a11a9fa7f6e645cc8459b84a6fd1622e", "type": "HUMAN_APPROVED", "actor": "laptop-1", "ts": "2026-07-03T22:40:04.097586Z", "risk_tier": 2}
+{"event_id": "c3bc9e3ba22a4dd9a48a1ad67814fdbc", "proposal_id": "a11a9fa7f6e645cc8459b84a6fd1622e", "type": "VERIFY", "actor": "hub", "ts": "2026-07-04T08:10:31.353587Z"}
+{"event_id": "215602a7c0e94b308f6e23fe9df78d70", "proposal_id": "a11a9fa7f6e645cc8459b84a6fd1622e", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-04T08:41:43.211837Z"}
+{"event_id": "2dacc5a3ce3b4d41954218365ace81fe", "proposal_id": "a1c59688b6f3495f8a852e2b79b4a96a", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-06-30T12:32:24.447775Z", "risk_tier": 2}
+{"event_id": "d0d0f2722b0b41c18211128aa0561081", "proposal_id": "a1c59688b6f3495f8a852e2b79b4a96a", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-06-30T12:32:26.954344Z"}
+{"event_id": "9952b18317bc4923a8082f7b42f6c7de", "proposal_id": "a1c59688b6f3495f8a852e2b79b4a96a", "type": "VERIFY", "actor": "hub", "ts": "2026-07-02T11:49:31.590197Z"}
+{"event_id": "bb16480d3c9e40ce8f55c09bedc3e0ab", "proposal_id": "a1c59688b6f3495f8a852e2b79b4a96a", "type": "HUMAN_APPROVED", "actor": "hub", "ts": "2026-07-02T11:53:56.107310Z", "risk_tier": 2}
+{"event_id": "b442bb065d9245fb8af4ee9103717fd5", "proposal_id": "a1c59688b6f3495f8a852e2b79b4a96a", "type": "COMMIT", "actor": "hub", "ts": "2026-07-02T11:53:59.801755Z"}
+{"event_id": "76a9aa2b5f904a1586e6bbf421fa18aa", "proposal_id": "a55fddb470794f9b9bba4d7dc7232843", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-04T14:33:14.780949Z", "risk_tier": 2}
+{"event_id": "c7edb55ee10a4a5f836ba1a572b2e588", "proposal_id": "a55fddb470794f9b9bba4d7dc7232843", "type": "ESCALATE", "actor": "hub", "ts": "2026-07-04T14:33:17.071371Z"}
+{"event_id": "ec4ba5e3c8994a8cba294600a374be4b", "proposal_id": "a56ba38b41e74659b0694eea55c11405", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-04T23:33:40.276239Z", "risk_tier": 2, "reversible": true}
+{"event_id": "6c0521765c24413f8f21435376cb97aa", "proposal_id": "a56ba38b41e74659b0694eea55c11405", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-04T23:33:43.756497Z"}
+{"event_id": "f8d0739fb11b494d95625d0ca259c33b", "proposal_id": "a6cb5ae44bbb4e99aba3d967a2c4f504", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-05T02:02:07.837848Z", "risk_tier": 1}
+{"event_id": "3a9b944b8ff84fbbae84bf74ce704975", "proposal_id": "a6cb5ae44bbb4e99aba3d967a2c4f504", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-05T02:53:58.441846Z", "risk_tier": 1}
+{"event_id": "ad4420d53659498d81a74132cab97e40", "proposal_id": "a6cb5ae44bbb4e99aba3d967a2c4f504", "type": "COMMIT", "actor": "laptop-1", "ts": "2026-07-05T02:56:53.559470Z"}
+{"event_id": "4d3fc7c901414cffb896f59ae72e54dc", "proposal_id": "a7c918fff0174c29bafdb6c318b1345b", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-02T00:40:14.801963Z", "risk_tier": 1}
+{"event_id": "7f32129ace644a38b391ca254b9b7464", "proposal_id": "a7c918fff0174c29bafdb6c318b1345b", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-02T04:41:31.597227Z"}
+{"event_id": "1017648812db468bb64f134d6b94ba7d", "proposal_id": "a7c918fff0174c29bafdb6c318b1345b", "type": "ESCALATE", "actor": "hub", "ts": "2026-07-02T04:52:11.719453Z"}
+{"event_id": "19f00d73effd416bbb86c92802978011", "proposal_id": "a7c918fff0174c29bafdb6c318b1345b", "type": "COMMIT", "actor": "hub", "ts": "2026-07-02T10:46:52.244865Z"}
+{"event_id": "873e6f86dcc5447682df3f25c26fc8c8", "proposal_id": "a7c918fff0174c29bafdb6c318b1345b", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-02T22:46:11.079122Z"}
+{"event_id": "02dc77b8bcbd4924b90fbead9a6b253a", "proposal_id": "a7c918fff0174c29bafdb6c318b1345b", "type": "VERIFY", "actor": "hub", "ts": "2026-07-02T23:20:45.650418Z"}
+{"event_id": "ad71bac10cfb461cbc2b31181233f403", "proposal_id": "aa97a0a6ba294559af2e8bb8ec7f8734", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-06-30T10:12:05.067757Z", "risk_tier": 1}
+{"event_id": "65ccf2d51f134251ad5e2d906d519ceb", "proposal_id": "aa97a0a6ba294559af2e8bb8ec7f8734", "type": "ACCEPT", "actor": "hub", "ts": "2026-06-30T10:19:22.010242Z", "risk_tier": 1}
+{"event_id": "164710440f354e1a872afae206001724", "proposal_id": "aa97a0a6ba294559af2e8bb8ec7f8734", "type": "COMMIT", "actor": "laptop-1", "ts": "2026-06-30T10:29:21.218143Z"}
+{"event_id": "515f06cec14b48df8f98fd2299645d55", "proposal_id": "aa97a0a6ba294559af2e8bb8ec7f8734", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-06-30T10:29:23.700613Z"}
+{"event_id": "6d2bd2aeb3cc4853acf422b358048c21", "proposal_id": "aa97a0a6ba294559af2e8bb8ec7f8734", "type": "VERIFY", "actor": "hub", "ts": "2026-07-02T10:47:13.366960Z"}
+{"event_id": "90f916f2840f4136b0ec33fe70fe95d4", "proposal_id": "ac29c215486946c993430f5d28ec5f69", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-04T15:37:13.602944Z", "risk_tier": 1, "reversible": true}
+{"event_id": "c8debaa03e68478b99b6c1ba194526cc", "proposal_id": "ac29c215486946c993430f5d28ec5f69", "type": "REJECT", "actor": "laptop-1", "ts": "2026-07-04T16:23:10.842861Z", "risk_tier": 1}
+{"event_id": "e7d78a386186482186712c65d3a07ddd", "proposal_id": "bb31732e8e5e447a8a7260c59dd8b58c", "type": "PROPOSE", "actor": "mac-1", "ts": "2026-07-08T12:34:57.426718Z", "risk_tier": 0}
+{"event_id": "7981f1a511be47358a3a9a91a6e74551", "proposal_id": "bb31732e8e5e447a8a7260c59dd8b58c", "type": "REJECT", "actor": "mac-1", "ts": "2026-07-08T12:35:20.950997Z", "risk_tier": 0}
+{"event_id": "aa63c3fa434c4c0686c6d5123d67ed1d", "proposal_id": "be4f35b4ee204901bf268059e049b90b", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-04T15:25:47.030932Z", "risk_tier": 2}
+{"event_id": "c59b21cd93bb40748ccdb90e42b58421", "proposal_id": "be4f35b4ee204901bf268059e049b90b", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-04T15:25:49.763572Z"}
+{"event_id": "f3ba1f4953af4f1ba5f071a68f03c8b9", "proposal_id": "be4f35b4ee204901bf268059e049b90b", "type": "REJECT", "actor": "laptop-1", "ts": "2026-07-04T15:27:13.030163Z", "risk_tier": 2}
+{"event_id": "1e4e62a8c0de4c20abcdf6d65221431c", "proposal_id": "be4f35b4ee204901bf268059e049b90b", "type": "HUMAN_APPROVED", "actor": "hub", "ts": "2026-07-05T17:32:35.650051Z", "risk_tier": 2}
+{"event_id": "37488adb05584b4080c6e2b42107af37", "proposal_id": "be4f35b4ee204901bf268059e049b90b", "type": "COMMIT", "actor": "hub", "ts": "2026-07-05T17:32:39.606414Z"}
+{"event_id": "2b2ef0bc7b0e4504a8858de9bc016ae7", "proposal_id": "be4f35b4ee204901bf268059e049b90b", "type": "VERIFY", "actor": "hub", "ts": "2026-07-05T17:32:43.767239Z"}
+{"event_id": "5518408514a747f2a2ff0057bd561ffd", "proposal_id": "c4fc09207c64460289a831737db54d0d", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-04T15:26:52.245573Z", "risk_tier": 1}
+{"event_id": "9e77cc2ecce14980b363e20d3f255793", "proposal_id": "c4fc09207c64460289a831737db54d0d", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-04T15:33:12.435978Z", "risk_tier": 1}
+{"event_id": "3229229f795646c8b3fed0a83ea72bc9", "proposal_id": "c4fc09207c64460289a831737db54d0d", "type": "COMMIT", "actor": "laptop-1", "ts": "2026-07-04T15:33:50.275485Z"}
+{"event_id": "c2cb1beb1808441f990aec5d941af082", "proposal_id": "c4fc09207c64460289a831737db54d0d", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-04T15:33:54.439379Z"}
+{"event_id": "31571bc180ba4214b834bf8adbc08a88", "proposal_id": "c4fc09207c64460289a831737db54d0d", "type": "VERIFY", "actor": "hub", "ts": "2026-07-04T21:20:31.388724Z"}
+{"event_id": "850256426bc64902bf36fc287588e7d0", "proposal_id": "d0d2d9f037844367a0d3eaf7bb4459bc", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-06T13:59:18.176402Z", "risk_tier": 1, "reversible": true}
+{"event_id": "e00e4f4201294afa94da27f312523142", "proposal_id": "d0d2d9f037844367a0d3eaf7bb4459bc", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-06T14:03:22.563583Z", "risk_tier": 1}
+{"event_id": "cce1b145b6b14f7b9efb0d2dceb04447", "proposal_id": "d0d2d9f037844367a0d3eaf7bb4459bc", "type": "HUMAN_APPROVED", "actor": "hub", "ts": "2026-07-06T14:09:17.851449Z", "risk_tier": 1}
+{"event_id": "78c8ca2f55fa4bdc87f10f5626550570", "proposal_id": "d0d2d9f037844367a0d3eaf7bb4459bc", "type": "COMMIT", "actor": "hub", "ts": "2026-07-06T14:09:22.128275Z"}
+{"event_id": "c3aff5c632de44f397f916698e7d2bbd", "proposal_id": "d0d2d9f037844367a0d3eaf7bb4459bc", "type": "ACCEPT", "actor": "anchor", "ts": "2026-07-06T14:10:54.520484Z", "risk_tier": 1}
+{"event_id": "b966c19256774e4c8e50da0f973938bc", "proposal_id": "d0d2d9f037844367a0d3eaf7bb4459bc", "type": "VERIFY", "actor": "hub", "ts": "2026-07-06T14:11:55.507236Z"}
+{"event_id": "aa6610695078460699788eb8bfe966be", "proposal_id": "d0d2d9f037844367a0d3eaf7bb4459bc", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-06T14:42:42.077271Z"}
+{"event_id": "25f6db42146944efbe664b10c77f0437", "proposal_id": "d3207790fddc40ae8fb48ebc3d3b020d", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-02T10:31:24.882662Z", "risk_tier": 1}
+{"event_id": "3f1c22d9ff074b4ebb54c8db6c95a154", "proposal_id": "d3207790fddc40ae8fb48ebc3d3b020d", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-02T14:41:31.609143Z"}
+{"event_id": "11701315589f477ebba83c5386148d54", "proposal_id": "d3207790fddc40ae8fb48ebc3d3b020d", "type": "HUMAN_APPROVED", "actor": "hub", "ts": "2026-07-02T14:57:31.876433Z", "risk_tier": 1}
+{"event_id": "24cb4a54787e4996b99c3956b3ecc38b", "proposal_id": "d3207790fddc40ae8fb48ebc3d3b020d", "type": "COMMIT", "actor": "hub", "ts": "2026-07-02T14:57:33.991936Z"}
+{"event_id": "1dc2bb526669415fad37870e5c229a3f", "proposal_id": "d3207790fddc40ae8fb48ebc3d3b020d", "type": "VERIFY", "actor": "hub", "ts": "2026-07-02T14:59:29.741117Z"}
+{"event_id": "8338cfe9935f45678168c5a8c5a999a9", "proposal_id": "d3207790fddc40ae8fb48ebc3d3b020d", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-02T22:43:54.039030Z"}
+{"event_id": "899f6c46d7264c8aa6747ba07ec6c432", "proposal_id": "d715ea18e17f40529894d7c018056a6e", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-07T19:38:29.266116Z", "risk_tier": 1}
+{"event_id": "a507d45f49ef40edb096252ecc5ebe5e", "proposal_id": "d715ea18e17f40529894d7c018056a6e", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-07T19:43:38.753123Z", "risk_tier": 1}
+{"event_id": "d93eeac249894206b4f7e75d5aa63231", "proposal_id": "d715ea18e17f40529894d7c018056a6e", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-07T19:51:46.504082Z", "risk_tier": 1}
+{"event_id": "b10d4dd0cbdc45d48bf873817bbd6054", "proposal_id": "d715ea18e17f40529894d7c018056a6e", "type": "COUNTER", "actor": "anchor", "ts": "2026-07-07T19:53:24.221355Z", "risk_tier": 1}
+{"event_id": "793464221934464d92dcbe6e74cf624c", "proposal_id": "d715ea18e17f40529894d7c018056a6e", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-07T20:03:55.114107Z"}
+{"event_id": "6f7bedb6459f4ced88e75f01c31a66c7", "proposal_id": "d715ea18e17f40529894d7c018056a6e", "type": "VERIFY", "actor": "hub", "ts": "2026-07-07T20:07:16.772432Z"}
+{"event_id": "8021d4c8c38747c094bd07ecc9f09ab2", "proposal_id": "d715ea18e17f40529894d7c018056a6e", "type": "VERIFY", "actor": "anchor", "ts": "2026-07-07T20:12:15.000411Z"}
+{"event_id": "98861a4dd9f040a2bdfaee533db9b7b2", "proposal_id": "d715ea18e17f40529894d7c018056a6e", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-08T08:27:43.093873Z", "risk_tier": 1}
+{"event_id": "475d57057b8f404b98b381bf81d909a7", "proposal_id": "d715ea18e17f40529894d7c018056a6e", "type": "COMMIT", "actor": "hub", "ts": "2026-07-08T12:47:30.483062Z"}
+{"event_id": "06d8be31284f4e9db63cdab3e35a2e39", "proposal_id": "dd6e200270a24bb9afbfba615b7076e9", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-04T21:18:41.848762Z", "risk_tier": 0, "reversible": true}
+{"event_id": "8dd329c64abd4e4fa2940f3551b75df0", "proposal_id": "dd6e200270a24bb9afbfba615b7076e9", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-04T22:19:34.398677Z"}
+{"event_id": "23aa14cb27214179815a05aaed007a70", "proposal_id": "dd6e200270a24bb9afbfba615b7076e9", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-04T22:32:12.042334Z"}
+{"event_id": "cc45c26a44c143e98f98e55670887037", "proposal_id": "e25779e11ec44ef3a984fe0ba4513d78", "type": "PROPOSE", "actor": "mac-1", "ts": "2026-07-08T12:36:01.961862Z", "risk_tier": 1, "reversible": true}
+{"event_id": "2fa6df258b8949508ac0d1835c8900d1", "proposal_id": "e25779e11ec44ef3a984fe0ba4513d78", "type": "ACCEPT", "actor": "anchor", "ts": "2026-07-08T12:40:58.822636Z", "risk_tier": 1}
+{"event_id": "00151fee89094417a48455159e5e292e", "proposal_id": "e25779e11ec44ef3a984fe0ba4513d78", "type": "COMMIT", "actor": "mac-1", "ts": "2026-07-08T12:43:15.631401Z"}
+{"event_id": "41e5feb557ff492aaa0246f95eaa4b75", "proposal_id": "e25779e11ec44ef3a984fe0ba4513d78", "type": "VERIFY", "actor": "mac-1", "ts": "2026-07-08T12:44:16.263997Z"}
+{"event_id": "65f45d633a8547859e04210e3706d999", "proposal_id": "e2e0702judge", "type": "PROPOSE", "actor": "test-peer", "ts": "2026-07-02T08:02:09.711403Z", "risk_tier": 0}
+{"event_id": "c140cb6a27c44913bc18c4ae1dde055b", "proposal_id": "e2e0702judge", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-02T08:03:20.444922Z", "risk_tier": 0}
+{"event_id": "85b345dd189740ecaa58b36e983cf354", "proposal_id": "e2e0702judge", "type": "COMMIT", "actor": "hub", "ts": "2026-07-02T08:04:51.286136Z"}
+{"event_id": "e345e65d7cd14dc7957b53a575fed3fe", "proposal_id": "e2elaptopjudge", "type": "PROPOSE", "actor": "test-peer", "ts": "2026-07-02T22:42:10.747951Z", "risk_tier": 0}
+{"event_id": "9c58ee5e35144dd1b9fd6cb0a9d9953e", "proposal_id": "e2elaptopjudge", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-02T22:42:11.070016Z", "risk_tier": 0}
+{"event_id": "6f21225a2e3d43189e8ed66a8e32eb50", "proposal_id": "e2elaptopjudge", "type": "COMMIT", "actor": "laptop-1", "ts": "2026-07-04T08:09:53.029953Z"}
+{"event_id": "c3f92e53d9684fa7a6e7a28930903898", "proposal_id": "e2etier1judge", "type": "PROPOSE", "actor": "test-peer", "ts": "2026-07-02T10:43:40.658015Z", "risk_tier": 1}
+{"event_id": "b4bd2c059c7b4a55857d853a8d2e43b3", "proposal_id": "e2etier1judge", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-02T10:44:44.558636Z", "risk_tier": 1}
+{"event_id": "7bbb8849ee764e04bf2c63c1daaa7f7e", "proposal_id": "e2etier1judge", "type": "COMMIT", "actor": "hub", "ts": "2026-07-02T10:46:20.422456Z"}
+{"event_id": "7143a9a405274040bde22e42b8ca1750", "proposal_id": "e53fd7fe88454611bdda0946ce331fd3", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-02T07:54:02.119440Z", "risk_tier": 2}
+{"event_id": "db31b7a0d37e4d5ebd41a24864faf48f", "proposal_id": "e53fd7fe88454611bdda0946ce331fd3", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-02T07:54:04.737729Z"}
+{"event_id": "022fc5b9c66f4408a83a3f88b5189262", "proposal_id": "e53fd7fe88454611bdda0946ce331fd3", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-02T08:05:06.198545Z", "risk_tier": 2}
+{"event_id": "29cb1e1b0c3c4d15867ab06daa6c75a2", "proposal_id": "e53fd7fe88454611bdda0946ce331fd3", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-02T08:24:10.139619Z", "risk_tier": 2}
+{"event_id": "b6f274abcb9048ea95104fa9092d69b4", "proposal_id": "e53fd7fe88454611bdda0946ce331fd3", "type": "VERIFY", "actor": "hub", "ts": "2026-07-02T10:46:48.470376Z"}
+{"event_id": "e56bb0314afd4d07bfe2b3d81634ee4c", "proposal_id": "e53fd7fe88454611bdda0946ce331fd3", "type": "VERIFY", "actor": "hub", "ts": "2026-07-02T11:49:35.502462Z"}
+{"event_id": "497cb70d05be48869fc6a1dc0a3e978b", "proposal_id": "e53fd7fe88454611bdda0946ce331fd3", "type": "HUMAN_APPROVED", "actor": "hub", "ts": "2026-07-02T11:53:48.585454Z", "risk_tier": 2}
+{"event_id": "110b3e44223149f0a54c6308c5ebf6f6", "proposal_id": "e53fd7fe88454611bdda0946ce331fd3", "type": "COMMIT", "actor": "hub", "ts": "2026-07-02T11:53:52.452208Z"}
+{"event_id": "1eaa2b4d10994e1ca27245188a7c1c0a", "proposal_id": "e9299b2522a444459493c7f330291bd2", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-06T20:26:33.181629Z", "risk_tier": 2}
+{"event_id": "c78e84ec360745d39557efc3883fd366", "proposal_id": "e9299b2522a444459493c7f330291bd2", "type": "ESCALATE", "actor": "hub", "ts": "2026-07-06T20:26:37.164373Z"}
+{"event_id": "dd8f346d92ef4ec793c60c792a179d1d", "proposal_id": "e9299b2522a444459493c7f330291bd2", "type": "HUMAN_APPROVED", "actor": "hub", "ts": "2026-07-06T20:26:47.278943Z", "risk_tier": 2}
+{"event_id": "918ec03296dd46bf9e26812234f541dd", "proposal_id": "e9299b2522a444459493c7f330291bd2", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-06T20:41:47.416665Z", "risk_tier": 2}
+{"event_id": "c8a10775850b4683ab7c5b7e17863406", "proposal_id": "e9299b2522a444459493c7f330291bd2", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-06T20:47:30.974367Z"}
+{"event_id": "52d261dbfde14c01a1a49d6a80043800", "proposal_id": "e9299b2522a444459493c7f330291bd2", "type": "COMMIT", "actor": "hub", "ts": "2026-07-06T20:51:25.836884Z"}
+{"event_id": "aa9631b1dc234da984b595c61dbd1228", "proposal_id": "e9299b2522a444459493c7f330291bd2", "type": "VERIFY", "actor": "hub", "ts": "2026-07-06T20:51:30.089016Z"}
+{"event_id": "430d64a9262a4fb990b4dd508cf78585", "proposal_id": "ec0f06e285dd442e8d45856877a15c92", "type": "PROPOSE", "actor": "mac-1", "ts": "2026-07-07T19:02:01.145986Z", "risk_tier": 0, "reversible": true}
+{"event_id": "161deaf267ce44d68a8f192f45b5efb6", "proposal_id": "ec0f06e285dd442e8d45856877a15c92", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-07T19:05:17.894183Z", "risk_tier": 0}
+{"event_id": "617d25f9d91940b2871bba9fa7b7be37", "proposal_id": "ec0f06e285dd442e8d45856877a15c92", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-07T19:05:26.887166Z", "risk_tier": 0}
+{"event_id": "957a8ae884be49a8b4c36d92680314a5", "proposal_id": "ec0f06e285dd442e8d45856877a15c92", "type": "ACCEPT", "actor": "anchor", "ts": "2026-07-07T19:10:33.545363Z", "risk_tier": 0}
+{"event_id": "a27cb3bb86f74e6090468e4848d992e0", "proposal_id": "ec0f06e285dd442e8d45856877a15c92", "type": "COMMIT", "actor": "mac-1", "ts": "2026-07-07T19:11:23.506544Z"}
+{"event_id": "2273839558fc4ef5a80eff4811a1158d", "proposal_id": "ec0f06e285dd442e8d45856877a15c92", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-07T19:44:35.115502Z"}
+{"event_id": "11fb6703bf4f4370bfd395d1ef278387", "proposal_id": "f2fab7603e7044f49c30cfd5c934dbf5", "type": "PROPOSE", "actor": "hub", "ts": "2026-07-06T14:41:40.150559Z", "risk_tier": 1, "reversible": true}
+{"event_id": "77668396fbfd42978018d4cd12e931a7", "proposal_id": "f2fab7603e7044f49c30cfd5c934dbf5", "type": "ACCEPT", "actor": "laptop-1", "ts": "2026-07-06T14:42:46.644345Z", "risk_tier": 1}
+{"event_id": "03972617ae9c4af6a26cee436c6eff82", "proposal_id": "f2fab7603e7044f49c30cfd5c934dbf5", "type": "VERIFY", "actor": "hub", "ts": "2026-07-06T21:00:09.815797Z"}
+{"event_id": "e4b9bfeaabc1487f84edaf329f145654", "proposal_id": "f2fab7603e7044f49c30cfd5c934dbf5", "type": "COMMIT", "actor": "hub", "ts": "2026-07-06T21:00:36.487840Z"}
+{"event_id": "882db5385a5a49e3b2257343598f7c19", "proposal_id": "f2fab7603e7044f49c30cfd5c934dbf5", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-07T07:59:59.597977Z"}
+{"event_id": "64fd1373a4874f258741a0e958e847e9", "proposal_id": "f2fab7603e7044f49c30cfd5c934dbf5", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-07-07T09:46:19.946704Z"}
+{"event_id": "6b03b7653409499192247db07b56203f", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "PROPOSE", "actor": "hub", "ts": "2026-06-30T14:56:50.011735Z", "risk_tier": 0}
+{"event_id": "a188b733c9eb43a89e922194719f5dfe", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-06-30T19:01:32.322138Z"}
+{"event_id": "e550d0e5ef4d4d95a8f04d6c0519612b", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T16:12:11.961618Z"}
+{"event_id": "1061a0433a1a4a1e9bf5825097065de1", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T16:32:12.159981Z"}
+{"event_id": "f7c2c9a9a3bc4ce4a8418409ae7a58b4", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T16:52:11.538133Z"}
+{"event_id": "353d7f1c14084b08bc140f4c10bae206", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T17:12:11.505353Z"}
+{"event_id": "54db09f3e603456b84e73a712345e330", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T17:32:12.009004Z"}
+{"event_id": "ed0a3faffe4b48988756c1fc9e067bbc", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T18:52:12.474811Z"}
+{"event_id": "b67f925a2cfb4f9280f18be13c6131b4", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T19:12:11.446676Z"}
+{"event_id": "7cbaf2d4383d459b9f6dad7bbf4588d4", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T19:32:11.431221Z"}
+{"event_id": "c8f21d7dcbd046b588d9d6ca736e6e27", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T19:52:11.445724Z"}
+{"event_id": "e1efa43bd0c74d23a26f0cdaa2c7f5d9", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T20:12:11.441587Z"}
+{"event_id": "139bd322f6c84bf39c8a4c74458470c5", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T20:32:11.465512Z"}
+{"event_id": "0c604c99f7fa4723bb9995075780d312", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T20:52:11.469795Z"}
+{"event_id": "75ebd391a730483f8c7d596c130bcc05", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T21:12:11.481666Z"}
+{"event_id": "a3851236ca2c4ad28c8db0ad99e85011", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T21:32:11.489801Z"}
+{"event_id": "b362cf28f0ff462bb6507fd237db1886", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T21:52:11.503353Z"}
+{"event_id": "8f79f79a36d04468bab4f81c992e9d58", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T22:12:11.504393Z"}
+{"event_id": "c9bf456bfa564671ac43f1d25fc4f858", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "ACCEPT", "actor": "hub", "ts": "2026-07-01T22:32:11.516162Z"}
+{"event_id": "835e78aafa6b4ddaa7f96be52ea6d21f", "proposal_id": "f60135de304544d49e96b3f6e79d0a0f", "type": "COMMIT", "actor": "hub", "ts": "2026-07-02T10:36:06.205653Z"}
+{"event_id": "c5e01c531a2b42a09387ae4fea21d584", "proposal_id": "f7c96ed9e1a7486591fc1753b217bc37", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-06-29T08:17:44.237191Z", "risk_tier": 0}
+{"event_id": "01be0f68a0d74e94a8f9711b7734aab5", "proposal_id": "f7c96ed9e1a7486591fc1753b217bc37", "type": "VERIFY", "actor": "laptop-1", "ts": "2026-06-29T08:17:47.255870Z"}
+{"event_id": "33499f5554554c01b97dd0ee964e874d", "proposal_id": "f7c96ed9e1a7486591fc1753b217bc37", "type": "ACCEPT", "actor": "hub", "ts": "2026-06-29T13:21:16.918401Z", "risk_tier": 0}
+{"event_id": "6558ce9076694bd79705e11a78993fae", "proposal_id": "f7c96ed9e1a7486591fc1753b217bc37", "type": "COMMIT", "actor": "hub", "ts": "2026-06-29T13:21:21.498731Z"}
+{"event_id": "48e297cc2c114d0486ead2181fc002b9", "proposal_id": "f7c96ed9e1a7486591fc1753b217bc37", "type": "VERIFY", "actor": "hub", "ts": "2026-06-29T13:21:26.184027Z"}
+{"event_id": "6ebdcbf94cfe4f70b100ecc920d0780a", "proposal_id": "faf2c43406f64dd6b9a47d4bb79e21b9", "type": "PROPOSE", "actor": "laptop-1", "ts": "2026-07-04T15:42:54.824379Z", "risk_tier": 2}
+{"event_id": "fe6591f8283f4a95b16e6a31f8425eda", "proposal_id": "faf2c43406f64dd6b9a47d4bb79e21b9", "type": "ESCALATE", "actor": "laptop-1", "ts": "2026-07-04T15:42:57.746096Z"}
+{"event_id": "ce305b693c8d4744b14f998db9f8d835", "proposal_id": "faf2c43406f64dd6b9a47d4bb79e21b9", "type": "HUMAN_APPROVED", "actor": "hub", "ts": "2026-07-04T21:28:17.205987Z", "risk_tier": 2}
+{"event_id": "d9f94d5e7d614b8aa11226038f8792b7", "proposal_id": "faf2c43406f64dd6b9a47d4bb79e21b9", "type": "VERIFY", "actor": "hub", "ts": "2026-07-04T21:29:49.620538Z"}

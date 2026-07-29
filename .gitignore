@@ -18,3 +18,4 @@ Thumbs.db
 # CharmOS local data (the ledger is local and personal)
 *.db
 .charmos/
+modules/eval-harness/rolemap.json
