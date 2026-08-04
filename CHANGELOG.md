@@ -1,10 +1,12 @@
-# Changelog
-
-All notable changes to this project are documented here.
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
 ## [Unreleased]
+
+### Planned
+- Second Brain reference implementation (vault + RAG + reranker).
+- Graph / associative recall layer with entity-vs-theme gating.
+- C(H+A)RM relationship layer (humans + agents as contacts).
+- Import pipelines and skills library.
+
+## [0.4.0] - 2026-08-04
 
 ### Added
 - `modules/eval-harness/` (v0.1.0) — eval & trace harness for multi-agent fleets. Four deterministic
@@ -15,12 +17,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   (`consensus-safety-v0`). Published results include our own failure: independent verify at 7.7%.
   Sanitisation ships as two deterministic paths (structure-only whitelist, and allowlist curation
   keeping real text); the host role map is local config, never source.
+- `AGENTS.md` — determinism and `sanitize.py` are the two load-bearing rules for anyone, human or
+  agent, changing this repo.
+- `FOR-ROBOTS.md`, changelog categories for auto-generated release notes, and the contributor deal
+  inherited from one org-wide `CONTRIBUTING.md` instead of a local copy that shadowed it.
 
-### Planned
-- Second Brain reference implementation (vault + RAG + reranker).
-- Graph / associative recall layer with entity-vs-theme gating.
-- C(H+A)RM relationship layer (humans + agents as contacts).
-- Import pipelines and skills library.
+### Note on timing
+This module landed on 2026-07-29 and sat in `Unreleased` for six days. Under the release discipline
+this repo now follows, a shipped module is a release: the version is cut when the work lands, not
+when someone remembers.
 
 ## [0.3.0] - 2026-06-28
 

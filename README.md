@@ -60,7 +60,21 @@ Founders, researchers, and operators who want a durable "digital twin" of how th
 - [`modules/rdr/`](modules/rdr/) (v0.3.0) — the **RDR loop** as a CLI: `recall` → `research` → `memo`, built on the TurnState ledger.
 - [`modules/eval-harness/`](modules/eval-harness/) (v0.1.0) — **grade your agent fleet against rules it must never break.** Turns a multi-agent event log into reproducible traces and scores them against explicit safety invariants. Includes our own production results: human-gate before a risky commit **100%**, independent verify before commit **7.7%** — we publish both.
 
-All deterministic, zero-LLM-token, pure stdlib. More modules follow. We version with [SemVer](https://semver.org) and keep a [CHANGELOG](CHANGELOG.md).
+All deterministic, zero-LLM-token, pure stdlib. More modules follow.
+
+### Roadmap
+
+**Now — [v0.4.0](https://github.com/Palo-Alto-AI-Research-Lab/charm-os/releases).** The three
+modules above, each versioned on its own, plus the manifesto and docs that came first.
+
+**Next**, from [CHANGELOG.md](CHANGELOG.md): a Second Brain reference implementation (vault + RAG +
+reranker), the graph/associative recall layer with entity-vs-theme gating, the C(H+A)RM relationship
+layer (humans and agents as contacts), and the import pipelines.
+
+We version with [SemVer](https://semver.org), and **every noticeable change ships as a new release**
+— a shipped module is a release, cut when the work lands rather than when someone remembers. The
+[release feed](https://github.com/Palo-Alto-AI-Research-Lab/charm-os/releases) is how you tell what
+is real here from what is still a manifesto.
 
 ## Privacy (read this first)
 
