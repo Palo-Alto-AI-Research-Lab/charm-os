@@ -68,7 +68,7 @@ This framework operates on deeply personal data. **No real personal data is incl
 
 ## Cite this work
 
-If this repo shows up in your research, cite it via [CITATION.cff](CITATION.cff) (GitHub's "Cite this repository" button). Academic identity: Anton Dzyatkovsky publishes as **Anton Dziatkovskii** ([ORCID 0000-0001-7408-3054](https://orcid.org/0000-0001-7408-3054)).
+If this repo shows up in your research, cite it via [CITATION.cff](CITATION.cff) (GitHub's "Cite this repository" button). Author: **Anton Dziatkovskii** ([ORCID 0000-0001-7408-3054](https://orcid.org/0000-0001-7408-3054), GitHub [@antondz](https://github.com/antondz)) — one spelling everywhere, in publications, commits and `CITATION.cff`.
 
 ## AI contributors
 
